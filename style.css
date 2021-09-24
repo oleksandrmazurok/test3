@@ -15,7 +15,7 @@ body{
     padding: 15px;
     width: 100%;
     top: 0px;
-    height: 100%;
+    height: 100vh;
     overflow-y: scroll;
 }
 .ba-container{
