@@ -5,6 +5,10 @@
 body{
     font: 300 16px/1.5 "Josefin Sans", sans-serif ;
     padding: 15px;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    overflow: hidden;
 }
 .ba-container{
     width: 80%;
