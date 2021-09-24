@@ -5,6 +5,11 @@ html.menu-open {
     height: 100%;
 }
 html,body{
+
+    height: 100%;
+
+    overflow-y: scroll;
+
     -webkit-overflow-scrolling: touch;
 }
 .menu {
