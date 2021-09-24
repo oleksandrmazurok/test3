@@ -5,12 +5,10 @@ html.menu-open {
     height: 100%;
 }
 body{
-    @media screen and (-webkit-min-device-pixel-ratio:0) { 
+   
         height: 100%;
         overflow-y: scroll;
         -webkit-overflow-scrolling: touch;
-    }
-
 
 }
 .menu {
