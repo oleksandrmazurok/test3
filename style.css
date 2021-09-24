@@ -6,9 +6,9 @@ html.menu-open {
 }
 body{
    
-        height: 100%;
-        overflow-y: scroll;
-        -webkit-overflow-scrolling: touch;
+    height: 100%;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
 
 }
 .menu {
