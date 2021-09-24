@@ -4,6 +4,9 @@
 html.menu-open {
     height: 100%;
 }
+html,body{
+    -webkit-overflow-scrolling: touch;
+}
 .menu {
     position: fixed;
     height: 100%;
