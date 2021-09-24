@@ -16,7 +16,8 @@ body{
     position: fixed;
     width: 100%;
     top: 0px;
-    overflow: hidden;
+    height: 100%;
+    overflow-y: scroll;
 }
 .ba-container{
     width: 80%;
